@@ -19,6 +19,7 @@ public class AbstractionHMWK {
         sedan VW = new sedan();
         whiskey JD = new whiskey();
         batman Bruce = new batman();
+        ghost Casper = new ghost();
     }
     
 }
