@@ -9,15 +9,15 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class sedan extends car{
-    private String manufacturer;
+public class whiskey {
+    private String distillery;
 
-    public String getManufacturer() {
-        return manufacturer;
+    public String getDistillery() {
+        return distillery;
     }
 
-    public void setManufacturer(String manufacturer) {
-        this.manufacturer = manufacturer;
+    public void setDistillery(String distillery) {
+        this.distillery = distillery;
     }
     
 }

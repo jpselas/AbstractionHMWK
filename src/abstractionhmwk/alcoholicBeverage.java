@@ -9,15 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class sedan extends car{
-    private String manufacturer;
-
-    public String getManufacturer() {
-        return manufacturer;
-    }
-
-    public void setManufacturer(String manufacturer) {
-        this.manufacturer = manufacturer;
-    }
+public abstract class alcoholicBeverage implements beverage{
     
 }

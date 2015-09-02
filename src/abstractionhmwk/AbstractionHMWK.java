@@ -16,7 +16,8 @@ public class AbstractionHMWK {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        sedan VW = new sedan();
+        whiskey JD = new whiskey();
     }
     
 }
