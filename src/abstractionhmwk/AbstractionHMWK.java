@@ -18,6 +18,7 @@ public class AbstractionHMWK {
         // TODO code application logic here
         sedan VW = new sedan();
         whiskey JD = new whiskey();
+        batman Bruce = new batman();
     }
     
 }
