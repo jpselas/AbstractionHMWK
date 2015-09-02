@@ -20,6 +20,8 @@ public class AbstractionHMWK {
         whiskey JD = new whiskey();
         batman Bruce = new batman();
         ghost Casper = new ghost();
+        smartPhone s6 = new smartPhone();
+        
     }
     
 }
