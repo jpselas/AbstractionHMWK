@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public interface person {
+public interface Beverage {
     
 }

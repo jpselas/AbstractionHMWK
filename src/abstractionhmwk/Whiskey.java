@@ -9,6 +9,15 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public interface electronic {
+public class Whiskey {
+    private String distillery;
+
+    public String getDistillery() {
+        return distillery;
+    }
+
+    public void setDistillery(String distillery) {
+        this.distillery = distillery;
+    }
     
 }

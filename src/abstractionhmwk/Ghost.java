@@ -9,6 +9,15 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public interface character {
+public class Ghost extends DeadPerson{
+    private String ghostName;
+
+    public String getGhostName() {
+        return ghostName;
+    }
+
+    public void setGhostName(String ghostName) {
+        this.ghostName = ghostName;
+    }
     
 }

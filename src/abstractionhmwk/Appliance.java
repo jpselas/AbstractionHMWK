@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public abstract class car implements motorVehicle{
+public abstract class Appliance implements Electronic{
     
 }

@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public interface beverage {
+public class SuperHero extends CartoonCharacter{
     
 }

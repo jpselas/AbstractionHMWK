@@ -9,7 +9,7 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class sedan extends car{
+public class Fridge {
     private String manufacturer;
 
     public String getManufacturer() {

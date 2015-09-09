@@ -9,6 +9,15 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public abstract class deadPerson implements person{
+public class Sedan extends Car{
+    private String manufacturer;
+
+    public String getManufacturer() {
+        return manufacturer;
+    }
+
+    public void setManufacturer(String manufacturer) {
+        this.manufacturer = manufacturer;
+    }
     
 }

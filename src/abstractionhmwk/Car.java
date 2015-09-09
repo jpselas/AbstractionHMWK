@@ -9,15 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class whiskey {
-    private String distillery;
-
-    public String getDistillery() {
-        return distillery;
-    }
-
-    public void setDistillery(String distillery) {
-        this.distillery = distillery;
-    }
+public abstract class Car implements MotorVehicle{
     
 }

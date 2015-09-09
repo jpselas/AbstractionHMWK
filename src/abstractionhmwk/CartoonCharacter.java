@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public abstract class appliance implements electronic{
+public abstract class CartoonCharacter implements Character{
     
 }

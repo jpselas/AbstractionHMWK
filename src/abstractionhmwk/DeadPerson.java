@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public abstract class cartoonCharacter implements character{
+public abstract class DeadPerson implements Person{
     
 }

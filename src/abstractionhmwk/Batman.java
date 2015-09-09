@@ -9,7 +9,7 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class batman extends superHero{
+public class Batman extends SuperHero{
     private String fname;
     private String lname;
 

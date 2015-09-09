@@ -9,15 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class smartPhone extends phone{
-    private String brand;
-
-    public String getBrand() {
-        return brand;
-    }
-
-    public void setBrand(String brand) {
-        this.brand = brand;
-    }
+public interface Person {
     
 }

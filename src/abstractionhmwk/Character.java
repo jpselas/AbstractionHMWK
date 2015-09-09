@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public abstract class phone implements electronic{
+public interface Character {
     
 }

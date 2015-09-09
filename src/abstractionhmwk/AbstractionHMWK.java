@@ -16,12 +16,12 @@ public class AbstractionHMWK {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        sedan VW = new sedan();
-        whiskey JD = new whiskey();
-        batman Bruce = new batman();
-        ghost Casper = new ghost();
-        smartPhone s6 = new smartPhone();
-        fridge maytag = new fridge();
+        Sedan VW = new Sedan();
+        Whiskey JD = new Whiskey();
+        Batman Bruce = new Batman();
+        Ghost Casper = new Ghost();
+        SmartPhone s6 = new SmartPhone();
+        Fridge maytag = new Fridge();
     }
     
 }

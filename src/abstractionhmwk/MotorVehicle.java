@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class superHero extends cartoonCharacter{
+public interface MotorVehicle {
     
 }

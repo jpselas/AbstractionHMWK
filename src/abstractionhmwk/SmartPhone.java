@@ -9,15 +9,15 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public class ghost extends deadPerson{
-    private String ghostName;
+public class SmartPhone extends Phone{
+    private String brand;
 
-    public String getGhostName() {
-        return ghostName;
+    public String getBrand() {
+        return brand;
     }
 
-    public void setGhostName(String ghostName) {
-        this.ghostName = ghostName;
+    public void setBrand(String brand) {
+        this.brand = brand;
     }
     
 }

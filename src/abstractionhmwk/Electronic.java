@@ -9,6 +9,6 @@ package abstractionhmwk;
  *
  * @author johnny
  */
-public abstract class alcoholicBeverage implements beverage{
+public interface Electronic {
     
 }
